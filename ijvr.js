@@ -36,3 +36,5 @@ export const sky = eg.sky;
 export const hsl = eg.hsl;
 export const camera = eg.camera;
 export const group = eg.group;
+export const sleep = eg.sleep;
+export const isNear = eg.isNear;
