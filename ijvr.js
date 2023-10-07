@@ -38,3 +38,4 @@ export const camera = eg.camera;
 export const group = eg.group;
 export const sleep = eg.sleep;
 export const isNear = eg.isNear;
+export const cls = eg.cls;
