@@ -1,7 +1,27 @@
 # ijvr
 
-ijvr.js
+ijvr.js is a JavaScript library for creating 3D graphics.
 
-## src
+## Features
+- Rendering text using the IchigoJam font
+- Provides various 3D primitives such as boxes, spheres, and lines
+- Supports importing 3D models
+- Includes helper functions for camera, lighting, and scene management
 
-- [ichigojam-font](https://github.com/ichigojam/ichigojam-font/)
+## Requirements
+- JavaScript runtime environment (e.g., web browser, Node.js)
+
+## Usage
+To use the library, import the necessary functions from the `ijvr.js` file:
+
+```javascript
+import * as eg from "./ijvr.js";
+
+eg.textIJ("IchigoJam\u00ff", 0, 1.5, -.5, .01);
+eg.box(0, 0, -1.5, 2, "red");
+```
+
+See the `textIJ.html` example file for a complete usage example.
+
+## License
+This project is licensed under the MIT License.
