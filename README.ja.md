@@ -1,9 +1,6 @@
 # ijvr
 
-ijvr.js は、Web上で3D表現を行うライブラリです。IchigoJam風のテキストや基本的な3D形状を簡単に配置できます。
-
-## デモ
-https://js.sabae.cc/textIJ.html
+ijvr.js は、Web上で3D表現を行うためのJavaScriptライブラリです。IchigoJam風のテキストや基本的な3D形状を簡単に配置できます。
 
 ## 機能
 - IchigoJam風のテキスト表示

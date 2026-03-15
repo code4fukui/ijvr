@@ -1,5 +1,7 @@
 # ijvr
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 ijvr.js is a JavaScript library for creating 3D graphics.
 
 ## Features
