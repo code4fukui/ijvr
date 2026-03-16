@@ -26,4 +26,4 @@ eg.box(0, 0, -1.5, 2, "red");
 See the `textIJ.html` example file for a complete usage example.
 
 ## License
-This project is licensed under the MIT License.
+MIT License — see [LICENSE](LICENSE).
